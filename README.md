@@ -7,7 +7,6 @@ Dispor oito rainhas em um tabuleiro de xadrez de dimensão 8x8, de forma que nen
 <br />
 Algoritmo: rainhas.c
 
-<br />	
-![Alt text](/images/rainhas.png)
+![Alt text](/images/rainhas.png?raw=true "Modelo")
 <br />
 
